@@ -1,10 +1,13 @@
-# DNS Server in Python
+# DNS Server in Python ☁️
 
-This project implements a simple DNS server in Python that can respond to TXT queries. 
+This project implements a simple DNS server in Python that can respond with TXT queries. 
 
-This project was inspired by Kailash Nadh, CTO, Zerodha. Who shared the similar DNS server written in Go. The same is currently hosted on dns.toys and has a huge community support. 
+This project was inspired by [Kailash Nadh's](https://github.com/knadh) dns.toys. dns.toys is a similar DNS server written in Go has a huge community support. 
 
-For Learning, I've tried to recreate the same in python. 
+--> https://github.com/knadh/dns.toys
+
+For Learning, I've tried to recreate the same in python. I'll be working on adding more utilities with time. ☺️
+
 
 
 ## Setup Instructions
